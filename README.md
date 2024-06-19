@@ -8,3 +8,6 @@ NOTE: First, download the necessary files from https://pjreddie.com/darknet/yolo
 # Features of Project:
 - Detecting people and vehicles using a bird's-eye camera recording.
 - Count the number of vehicles coming into the frame and indicate whether there is traffic on the road or not.
+
+![image](https://github.com/YashPratapS/Object-Detector/assets/95158391/165f80d8-c512-45ff-a0c8-0d88e909ab10)
+
